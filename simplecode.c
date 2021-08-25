@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - A for loop that prints numbers
+ * a: number to be printed
+ * Return: 0
+ */
 int main(void)
 {
 
