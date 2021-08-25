@@ -54,4 +54,7 @@ char *_strcat(char *dest, char *src);
 
 /*END*/
 
+/*NEW*/
+int prompt_user(char **commands);
+
 #endif /* _SHELL_H_ */
